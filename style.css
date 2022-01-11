@@ -1,0 +1,59 @@
+#success{
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 23px 0px;
+}
+#failure{
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 23px 0px;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#time {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 23px;
+    margin-bottom: 23px;
+    text-align: center;
+}
+.alarmClass{
+    text-align: center;
+    padding: 23px;
+    margin: 23px;
+}
+input{
+    border: 34px;
+    width: 50vw;
+    height: 10vh;
+    margin: 23px;
+    padding: 23px;
+    text-align: center;
+    font-size: 34px;
+    background-color: rgb(241, 245, 184);
+    color: rgb(14, 7, 7);
+}
+span{
+    font-size: 44px;
+    font-weight: bold;
+}
+button{
+    background-color: green;
+    color: white;
+    font-size: 23px;
+    border-radius: 12px;
+    cursor: pointer;
+    padding: 0px 32px;
+    text-align: center;
+}
